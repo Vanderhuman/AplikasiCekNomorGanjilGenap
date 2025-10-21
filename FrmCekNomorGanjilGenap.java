@@ -208,6 +208,7 @@ public class FrmCekNomorGanjilGenap extends javax.swing.JFrame {
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
     txtAngka.setText("");
     lblHasil.setText("");
+    txtAngka.requestFocus();
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
